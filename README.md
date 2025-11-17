@@ -1,1 +1,1 @@
-仅支持MIHONO内核 防DNS泄露
+防DNS泄露
