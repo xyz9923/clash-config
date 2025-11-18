@@ -3,8 +3,9 @@
 参考https://linux.do/t/topic/1061825/1 mihomo 内核极简防 DNS 泄漏配置（2025 年）
 
 自带覆写功能的客户端，如 Clash Party/Sparkle 
-也可以直接进行覆写
-需要自行设置 DNS覆写规则，参考如下
+可以直接进行覆写
+
+也可以自行设置 DNS覆写规则，参考如下
 
 IPV6 打开
 
