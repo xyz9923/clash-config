@@ -5,6 +5,8 @@
 自带覆写功能的客户端，如 Clash Party/Sparkle 
 可以直接进行覆写
 
+https://raw.githubusercontent.com/xyz9923/clash-config/refs/heads/main/sprakle/dns.js
+
 也可以自行设置 DNS覆写规则，参考如下
 
 IPV6 打开
